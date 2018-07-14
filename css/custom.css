@@ -61,6 +61,7 @@ ul {
 .row-card {
   background-color: #C8E0E9;
   border-radius: 2em;
+  margin-bottom: 4em;
   padding: 60px;
 }
 
@@ -100,6 +101,11 @@ h2.section-heading {
   padding: 2em;
 }
 
+#paiwi {
+  background-image: url(../img/goat1.png);
+  background-attachment: fixed;
+}
+
 #paiwi-img {
   width: 100%;
 }
@@ -137,10 +143,6 @@ h2.section-heading {
   margin: 0 auto;
   width: 80%;
   table-layout: fixed;
-}
-
-#about div.row {
-  margin-bottom: 2em;
 }
 
 #about div.row table {
