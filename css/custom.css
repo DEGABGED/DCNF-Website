@@ -65,6 +65,10 @@ ul {
   padding: 60px;
 }
 
+section {
+  border-bottom: 100px solid #212529;
+}
+
 hr.separator {
   visibility: hidden;
 }
