@@ -55,10 +55,4 @@
     scale: 0.3,
     distance: '0px'
   }, 300);
-
-  $(document).ready(function() {
-    console.log("end my life");
-    $('#minimap').html('<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15426.208652229394!2d120.9995984355148!3d14.850371625333283!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3397aeb5d76a250f%3A0xf6f0915d49d37812!2sBalasing%2C+Santa+Maria%2C+Bulacan!5e0!3m2!1sen!2sph!4v1517028994068" frameborder="0" style="border:0" allowfullscreen></iframe>');
-  });
-
 })(jQuery); // End of use strict
